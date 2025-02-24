@@ -2,11 +2,6 @@
 
 # Favour Onyenike 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/favour.ogo_/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/favour68099078)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
-
 
 ## 🚀 About Me
 - 🎓 I'm a **Computer Science student** at Baze University, Class of 2026.
@@ -44,9 +39,8 @@
 | 📧 Email   | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)       |
 | 📸 Instagram | [favour.ogo_](https://www.instagram.com/favour.ogo_/)               |
 | 🐦 Twitter | [favour68099078](https://twitter.com/favour68099078)                 |
-| 💼 LinkedIn | [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) |
-| 🐙 GitHub  | [your-github-username](https://github.com/your-github-username)     |
-| 🌐 Portfolio | [Your Portfolio](https://your-portfolio-link.com)                   |
+| 🐙 GitHub  | [your-github-username](https://github.com/Favour-Onyenike)     |
+| 🌐 Portfolio | [Your Portfolio](https://favour-onyenike.github.io/PORTFOLIO/)                   |
 
 
 ⭐ **Thanks for stopping by! Don't forget to check out my repos!** 🚀
