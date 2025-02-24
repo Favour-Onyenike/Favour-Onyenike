@@ -4,12 +4,9 @@
 
 
 ## 🚀 About Me
-- 🎓 I'm a **Computer Science student** at Baze University, Class of 2026.
-- 💻 Passionate about **web Development, APIs, Cyber Security and Data Analysis**.
-- 🛠️ Currently working on a **TaskRabbit-style app for Nigerian universities**.
-- 🌍 Exploring **AI, Web Development, and System Design**.
-- 🚀 Love **manchester united** 
-- 📚 Always **learning new technologies** and improving my skills.
+- 🎓 I'm a **Computer Science student** at Baze University, Class of 2026.💻 Passionate about **web Development, APIs, Cyber Security and Data Analysis**.
+- 🛠️ Currently working on a **TaskRabbit-style app for Nigerian universities**.🌍 Exploring **AI, Web Development, and System Design**.
+- 🚀 Love **manchester united** .📚 Always **learning new technologies** and improving my skills.
 
 
 ## 🚀 **My Projects**
