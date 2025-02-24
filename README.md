@@ -39,8 +39,8 @@
 | 📧 Email   | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)       |
 | 📸 Instagram | [favour.ogo_](https://www.instagram.com/favour.ogo_/)               |
 | 🐦 Twitter | [favour68099078](https://twitter.com/favour68099078)                 |
-| 🐙 GitHub  | [your-github-username](https://github.com/Favour-Onyenike)     |
-| 🌐 Portfolio | [Your Portfolio](https://favour-onyenike.github.io/PORTFOLIO/)                   |
+| 🐙 GitHub  | [Favour-Onyenike](https://github.com/Favour-Onyenike)     |
+| 🌐 Portfolio | [PORTFOLIO](https://favour-onyenike.github.io/PORTFOLIO/)                   |
 
 
 ⭐ **Thanks for stopping by! Don't forget to check out my repos!** 🚀
