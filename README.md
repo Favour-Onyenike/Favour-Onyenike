@@ -1,29 +1,52 @@
 
 
-# Hi, I'm Favour Onyenike 👋
+# Favour Onyenike 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/favour.ogo_/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/favour68099078)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
 
----
 
 ## 🚀 About Me
+- 🎓 I'm a **Computer Science student** at Baze University, Class of 2026.
+- 💻 Passionate about **web Development, APIs, Cyber Security and Data Analysis**.
+- 🛠️ Currently working on a **TaskRabbit-style app for Nigerian universities**.
+- 🌍 Exploring **AI, Web Development, and System Design**.
+- 🚀 Love **manchester united** 
+- 📚 Always **learning new technologies** and improving my skills.
 
-I'm a passionate **Frontend Developer** from Delta State, Nigeria, with a strong foundation in **HTML, CSS, JavaScript, and Python**. I specialize in crafting pixel-perfect, responsive websites and creating seamless user experiences. I'm currently pursuing a **BSc in Computer Science** at Baze University, Abuja, and I'm always eager to learn and explore new technologies.
 
-### 🧰 Languages and Tools
+## 🚀 **My Projects**
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🎽 Jersey Shop API](https://github.com/Favour-Onyenike/JerseyShop.API)** | A RESTful API to manage an online jersey store. | `.NET`, `C#`, `SQL`, `REST API` |
+| **[🌐 Portfolio Website](https://favour-onyenike.github.io/PORTFOLIO/)** | A personal portfolio website to showcase my skills and projects. | `HTML`, `CSS`, `JavaScript` |
+| **[🏨 Hotel Website](https://favour-onyenike.github.io/Hotel-Website/)** | Website for La Posh Signature Suites. | `HTML`, `CSS`, `JavaScript` |
+| **[💱 Currency Converter](https://favour-onyenike.github.io/currency-converter-HTML/)** | Web app that converts between the top 10 most used currencies. | `HTML`, `CSS`, `JavaScript` |
+| **[🎮 Dungeon Crawler Game](https://github.com/Favour-Onyenike/DungeonCrawler)** | A C# game implementing OOP principles. | `C#` |
 
-<br />
 
-#
+
+## 🎯 **Fun Facts**
+- 🎮 I love playing **video games** in my free time.
+- ✈️ I enjoy **traveling** and experiencing new cultures.
+- 💡 Passionate about **tech innovations** and **entrepreneurship**.
+- 🏆 Always **seeking new challenges** to grow and learn.
+
+
+
+### 🌐 Connect with Me
+
+| Platform   | Link                                                                 |
+|------------|---------------------------------------------------------------------|
+| 📧 Email   | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)       |
+| 📸 Instagram | [favour.ogo_](https://www.instagram.com/favour.ogo_/)               |
+| 🐦 Twitter | [favour68099078](https://twitter.com/favour68099078)                 |
+| 💼 LinkedIn | [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) |
+| 🐙 GitHub  | [your-github-username](https://github.com/your-github-username)     |
+| 🌐 Portfolio | [Your Portfolio](https://your-portfolio-link.com)                   |
+
+
+⭐ **Thanks for stopping by! Don't forget to check out my repos!** 🚀
