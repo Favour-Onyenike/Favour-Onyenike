@@ -73,7 +73,7 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 ## Featured analytics project
 
 ### [Olist E-Commerce Analytics](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
-**Python · MySQL · Power BI** | ~99,000 real marketplace orders (public Olist dataset)
+**Python · MySQL · Power BI** | 99,000 real marketplace orders (public Olist dataset)
 
 - Cleaned and transformed **9 related tables**  
 - Built delivery metrics (including late-order flags) and English category labels  
@@ -115,17 +115,7 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
   <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</p>
 
-<p align="center">
-<a href="mailto:onyenikefavour8@gmail.com">📧 Email</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Favour-Onyenike">💻 GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">📊 Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/favour-onyenike">💼 LinkedIn</a>
-</p>
 
 ---
 
