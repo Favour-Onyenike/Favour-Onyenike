@@ -8,7 +8,6 @@ Python · SQL · Power BI · Excel · Accurate, structured data work
 Abuja, Nigeria  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=for-the-badge)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
-[![Olist Project](https://img.shields.io/badge/Project-Olist_Analytics-2A9D8F?style=for-the-badge)](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
 [![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onyenike)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
