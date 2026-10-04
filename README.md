@@ -104,17 +104,7 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
   <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</p>
 
-<p align="center">
-<a href="mailto:onyenikefavour8@gmail.com">📧 Email</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Favour-Onyenike">💻 GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">📊 Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/favour-onyenike">💼 LinkedIn</a>
-</p>
 
 ---
 
