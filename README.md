@@ -37,6 +37,27 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 
 ---
 
+## Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+<p align="center">
+  <b>Python</b> &nbsp;·&nbsp; data cleaning &amp; preparation<br/>
+  <b>SQL (MySQL)</b> &nbsp;·&nbsp; structure, joins &amp; validation<br/>
+  <b>Power BI</b> &nbsp;·&nbsp; dashboards, DAX &amp; reporting<br/>
+  <b>Excel</b> &nbsp;·&nbsp; data entry, checks &amp; simple analysis
+</p>
+
+---
+
 ## What I can do for a team
 
 | Area | Skills |
@@ -104,7 +125,17 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
   <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+</p>
 
+<p align="center">
+<a href="mailto:onyenikefavour8@gmail.com">📧 Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Favour-Onyenike">💻 GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">📊 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/favour-onyenike">💼 LinkedIn</a>
+</p>
 
 ---
 
