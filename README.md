@@ -7,10 +7,10 @@ Python · SQL · Power BI · Excel · Accurate, structured data work
 
 Abuja, Nigeria  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=flat-square)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
-[![Olist Project](https://img.shields.io/badge/Project-Olist_Analytics-2A9D8F?style=flat-square)](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
-[![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=flat-square&logo=github)](https://github.com/Favour-Onyenike)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:onyenikefavour8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=for-the-badge)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
+[![Olist Project](https://img.shields.io/badge/Project-Olist_Analytics-2A9D8F?style=for-the-badge)](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
+[![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
 
 </div>
 
@@ -18,17 +18,21 @@ Abuja, Nigeria
 
 ## About me
 
-I work with data from start to finish: **clean it, organise it, check it, and turn it into clear information** people can use.
+<blockquote>
+<p><em>
+I work with data from start to finish: clean it, organise it, check it, and turn it into clear information people can use.
+</em></p>
+<p><em>
+I am a Computer Science student at <strong>Baze University</strong> with hands-on experience in data analysis, data entry and data quality, and reporting with Excel, SQL, and Power BI.
+</em></p>
+<p><em>
+I care about accuracy, clear documentation, and work that helps a team make better decisions — not just charts for decoration.
+</em></p>
+</blockquote>
 
-I am a Computer Science student at **Baze University** with hands-on experience in:
-
-- **Data analysis** — business questions, metrics, insights, and recommendations  
-- **Data entry & data quality** — careful handling of records, validation, and consistent structure  
-- **Reporting** — Excel, SQL, and Power BI dashboards  
-
-I care about **accuracy**, **clear documentation**, and work that helps a team make better decisions — not just charts for decoration.
-
-**Open to:** Data Analyst (junior) · Data Entry Clerk · Data Operations / Analytics support roles  
+<p align="center">
+<strong>Open to:</strong> Data Analyst (junior) &nbsp;·&nbsp; Data Entry Clerk &nbsp;·&nbsp; Data Operations / Analytics support
+</p>
 
 ---
 
@@ -36,10 +40,10 @@ I care about **accuracy**, **clear documentation**, and work that helps a team m
 
 | Area | Skills |
 |------|--------|
-| **Data cleaning** | Python (pandas), handling missing values, dates, duplicates, consistent formats |
+| **Data cleaning** | Python (pandas), missing values, dates, duplicates, consistent formats |
 | **Databases** | MySQL — tables, keys, joins, basic queries, import validation |
 | **Analysis & reporting** | Power BI (DAX, interactive dashboards), Excel |
-| **Data entry / quality** | Structured data entry, cross-checks, attention to detail, documentation |
+| **Data entry / quality** | Structured entry, cross-checks, attention to detail, documentation |
 | **Communication** | Clear write-ups of findings and practical recommendations |
 
 ---
@@ -79,12 +83,39 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
 
 ---
 
-## Connect
+## Connect with me
 
-- **Email:** [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)  
-- **GitHub:** [Favour-Onyenike](https://github.com/Favour-Onyenike)  
-- **Analytics portfolio:** [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)  
-- **LinkedIn:** *add your LinkedIn URL here*  
+<p align="center">
+
+<a href="mailto:onyenikefavour8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-onyenikefavour8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Favour-Onyenike">
+  <img src="https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Analytics-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</p>
+
+<p align="center">
+<a href="mailto:onyenikefavour8@gmail.com">📧 Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Favour-Onyenike">💻 GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">📊 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/">💼 LinkedIn</a>
+</p>
+
+> Replace the LinkedIn link with your real profile URL when ready.
 
 ---
 
