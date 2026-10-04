@@ -10,6 +10,7 @@ Abuja, Nigeria
 [![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=for-the-badge)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
 [![Olist Project](https://img.shields.io/badge/Project-Olist_Analytics-2A9D8F?style=for-the-badge)](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
 [![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onyenike)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
 
 </div>
@@ -99,8 +100,8 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
   <img src="https://img.shields.io/badge/Portfolio-Analytics-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/favour-onyenike">
+  <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </p>
@@ -112,10 +113,8 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
 &nbsp;·&nbsp;
 <a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">📊 Portfolio</a>
 &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/favour-onyenike">💼 LinkedIn</a>
 </p>
-
-> Replace the LinkedIn link with your real profile URL when ready.
 
 ---
 
