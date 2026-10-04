@@ -1,41 +1,96 @@
+<div align="center">
 
+# Favour Onyenike
 
-# Favour Onyenike 👋
+### Data Analyst & Data Entry Professional  
+Python · SQL · Power BI · Excel · Accurate, structured data work
 
+Abuja, Nigeria  
 
-## 🚀 About Me
-- 🎓 I'm a **Computer Science student** at Baze University, Class of 2026.💻 Passionate about **web Development, APIs, Cyber Security and Data Analysis**. 🛠️ Currently working on a **TaskRabbit-style app for Nigerian universities**.🌍 Exploring **AI, Web Development, and System Design**.🚀 Love **manchester united** .📚 Always **learning new technologies** and improving my skills.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=flat-square)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
+[![Olist Project](https://img.shields.io/badge/Project-Olist_Analytics-2A9D8F?style=flat-square)](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
+[![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=flat-square&logo=github)](https://github.com/Favour-Onyenike)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:onyenikefavour8@gmail.com)
 
+</div>
 
-## 🚀 **My Projects**
+---
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🎽 Jersey Shop API](https://github.com/Favour-Onyenike/JerseyShop.API)** | A RESTful API to manage an online jersey store. | `.NET`, `C#`, `SQL`, `REST API` |
-| **[🌐 Portfolio Website](https://favour-onyenike.github.io/PORTFOLIO/)** | A personal portfolio website to showcase my skills and projects. | `HTML`, `CSS`, `JavaScript` |
-| **[🏨 Hotel Website](https://favour-onyenike.github.io/Hotel-Website/)** | Website for La Posh Signature Suites. | `HTML`, `CSS`, `JavaScript` |
-| **[💱 Currency Converter](https://favour-onyenike.github.io/currency-converter-HTML/)** | Web app that converts between the top 10 most used currencies. | `HTML`, `CSS`, `JavaScript` |
-| **[🎮 Dungeon Crawler Game](https://github.com/Favour-Onyenike/DungeonCrawler)** | A C# game implementing OOP principles. | `C#` |
+## About me
 
+I work with data from start to finish: **clean it, organise it, check it, and turn it into clear information** people can use.
 
+I am a Computer Science student at **Baze University** with hands-on experience in:
 
-## 🎯 **Fun Facts**
-- 🎮 I love playing **video games** in my free time.
-- ✈️ I enjoy **traveling** and experiencing new cultures.
-- 💡 Passionate about **tech innovations** and **entrepreneurship**.
-- 🏆 Always **seeking new challenges** to grow and learn.
+- **Data analysis** — business questions, metrics, insights, and recommendations  
+- **Data entry & data quality** — careful handling of records, validation, and consistent structure  
+- **Reporting** — Excel, SQL, and Power BI dashboards  
 
+I care about **accuracy**, **clear documentation**, and work that helps a team make better decisions — not just charts for decoration.
 
+**Open to:** Data Analyst (junior) · Data Entry Clerk · Data Operations / Analytics support roles  
 
-### 🌐 Connect with Me
+---
 
-| Platform   | Link                                                                 |
-|------------|---------------------------------------------------------------------|
-| 📧 Email   | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)       |
-| 📸 Instagram | [favour.ogo_](https://www.instagram.com/favour.ogo_/)               |
-| 🐦 Twitter | [favour68099078](https://twitter.com/favour68099078)                 |
-| 🐙 GitHub  | [Favour-Onyenike](https://github.com/Favour-Onyenike)     |
-| 🌐 Portfolio | [PORTFOLIO](https://favour-onyenike.github.io/PORTFOLIO/)                   |
+## What I can do for a team
 
+| Area | Skills |
+|------|--------|
+| **Data cleaning** | Python (pandas), handling missing values, dates, duplicates, consistent formats |
+| **Databases** | MySQL — tables, keys, joins, basic queries, import validation |
+| **Analysis & reporting** | Power BI (DAX, interactive dashboards), Excel |
+| **Data entry / quality** | Structured data entry, cross-checks, attention to detail, documentation |
+| **Communication** | Clear write-ups of findings and practical recommendations |
 
-⭐ **Thanks for stopping by! Don't forget to check out my repos!** 🚀
+---
+
+## Featured analytics project
+
+### [Olist E-Commerce Analytics](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)
+**Python · MySQL · Power BI** | ~99,000 real marketplace orders (public Olist dataset)
+
+- Cleaned and transformed **9 related tables**  
+- Built delivery metrics (including late-order flags) and English category labels  
+- Designed a **3-page Power BI dashboard** (Overview, Delivery, Sellers)  
+- Key insight: **late deliveries linked to lower review scores**; only **~3%** of customers bought again  
+
+Full write-up: [project README](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)  
+All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)
+
+---
+
+## Selected other work
+
+| Project | Description | Focus |
+|---------|-------------|--------|
+| [Jersey Shop API](https://github.com/Favour-Onyenike/JerseyShop.API) | REST API for an online store | Structured data, SQL, backend logic |
+| [Portfolio website](https://favour-onyenike.github.io/PORTFOLIO/) | Personal site | Clear presentation of skills |
+| [Hotel website](https://favour-onyenike.github.io/Hotel-Website/) | Business website | Organised content & structure |
+
+---
+
+## How I work
+
+1. Understand the **goal** and the questions to answer  
+2. Inspect the data — tables, columns, quality issues  
+3. Clean and structure carefully (no shortcuts on accuracy)  
+4. Analyse with metrics that matter to the business  
+5. Present findings simply and recommend next steps  
+
+---
+
+## Connect
+
+- **Email:** [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com)  
+- **GitHub:** [Favour-Onyenike](https://github.com/Favour-Onyenike)  
+- **Analytics portfolio:** [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)  
+- **LinkedIn:** *add your LinkedIn URL here*  
+
+---
+
+<div align="center">
+
+*Open to opportunities in data analysis, data entry, and data operations.*  
+Thank you for visiting.
+
+</div>
