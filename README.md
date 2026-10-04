@@ -60,13 +60,13 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 
 ## What I can do for a team
 
-| Area | Skills |
-|------|--------|
-| **Data cleaning** | Python (pandas), missing values, dates, duplicates, consistent formats |
-| **Databases** | MySQL — tables, keys, joins, basic queries, import validation |
-| **Analysis & reporting** | Power BI (DAX, interactive dashboards), Excel |
-| **Data entry / quality** | Structured entry, cross-checks, attention to detail, documentation |
-| **Communication** | Clear write-ups of findings and practical recommendations |
+| | Capability | What that looks like in practice |
+|---|------------|----------------------------------|
+| 🧹 | **Clean & prepare data** | Fix missing values, dates, duplicates, and inconsistent formats so the dataset is reliable |
+| ✅ | **Enter & validate records** | Accurate data entry, cross-checks, and documentation so teams can trust the numbers |
+| 🗄️ | **Organise data in databases** | Build and query MySQL tables with clear structure, keys, and joins |
+| 📊 | **Analyse & report** | Build Power BI dashboards and Excel reports that answer real business questions |
+| 💡 | **Explain findings** | Turn results into simple insights and practical recommendations |
 
 ---
 
@@ -82,16 +82,6 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 
 Full write-up: [project README](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)  
 All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)
-
----
-
-## Selected other work
-
-| Project | Description | Focus |
-|---------|-------------|--------|
-| [Jersey Shop API](https://github.com/Favour-Onyenike/JerseyShop.API) | REST API for an online store | Structured data, SQL, backend logic |
-| [Portfolio website](https://favour-onyenike.github.io/PORTFOLIO/) | Personal site | Clear presentation of skills |
-| [Hotel website](https://favour-onyenike.github.io/Hotel-Website/) | Business website | Organised content & structure |
 
 ---
 
