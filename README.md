@@ -7,7 +7,7 @@ Python · SQL · Power BI · Excel · Accurate, structured data work
 
 Abuja, Nigeria  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Data_Analytics-0A66C2?style=for-the-badge)](https://github.com/Favour-Onyenike/data-analytics-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://favour-onyenike.github.io/PORTFOLIO/)
 [![GitHub](https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github)](https://github.com/Favour-Onyenike)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-onyenike)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyenikefavour8@gmail.com)
@@ -80,7 +80,8 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 - Key insight: **late deliveries linked to lower review scores**; only **~3%** of customers bought again  
 
 Full write-up: [project README](https://github.com/Favour-Onyenike/olist-ecommerce-analytics)  
-All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)
+Portfolio website: [favour-onyenike.github.io/PORTFOLIO](https://favour-onyenike.github.io/PORTFOLIO/)  
+Analytics repos: [data-analytics-portfolio](https://github.com/Favour-Onyenike/data-analytics-portfolio)
 
 ---
 
@@ -106,15 +107,25 @@ All analytics work: [data-analytics-portfolio](https://github.com/Favour-Onyenik
   <img src="https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Analytics-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio" />
+<a href="https://favour-onyenike.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/favour-onyenike">
   <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+</p>
 
+<p align="center">
+<a href="mailto:onyenikefavour8@gmail.com">📧 Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Favour-Onyenike">💻 GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://favour-onyenike.github.io/PORTFOLIO/">🌐 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/favour-onyenike">💼 LinkedIn</a>
+</p>
 
 ---
 
