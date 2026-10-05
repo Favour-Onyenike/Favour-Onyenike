@@ -30,41 +30,47 @@ Abuja, Nigeria
 
 ## About
 
+<div align="center">
+
 <blockquote>
-<p><em>
+<p>
+<em style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 1.05em; line-height: 1.7;">
 I work with data from start to finish: clean it, organise it, check it, and turn it into clear information people can use.
-</em></p>
-<p><em>
-I am a Computer Science student at <strong>Baze University</strong> with hands-on experience in data analysis, data entry and data quality, and reporting with Excel, SQL, and Power BI.
-</em></p>
-<p><em>
+</em>
+</p>
+<p>
+<em style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 1.05em; line-height: 1.7;">
+I am a <strong>first-class graduate</strong> in <strong>Computer Science</strong> from <strong>Baze University</strong>, with hands-on experience in data analysis, data entry and data quality, and reporting with Excel, SQL, and Power BI.
+</em>
+</p>
+<p>
+<em style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 1.05em; line-height: 1.7;">
 I care about accuracy, clear documentation, and work that helps a team make better decisions — not just charts for decoration.
-</em></p>
+</em>
+</p>
 </blockquote>
 
-<p align="center">
+<p>
 <strong>Open to:</strong> Data Analyst (junior) &nbsp;·&nbsp; Data Entry Clerk &nbsp;·&nbsp; Data Operations / Analytics support
 </p>
 
----
+<br/>
 
-## Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+</div>
 
 ---
 
