@@ -76,25 +76,12 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 
 ## Contact
 
-<p align="center">
-
-<a href="mailto:onyenikefavour8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-onyenikefavour8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/favour-onyenike">
-  <img src="https://img.shields.io/badge/LinkedIn-favour--onyenike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/favour.ogo_/">
-  <img src="https://img.shields.io/badge/Instagram-favour.ogo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://www.tiktok.com/@favour.ogo_">
-  <img src="https://img.shields.io/badge/TikTok-favour.ogo__-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-
-</p>
+| Platform | Link |
+|----------|------|
+| **Email** | [onyenikefavour8@gmail.com](mailto:onyenikefavour8@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/favour-onyenike](https://www.linkedin.com/in/favour-onyenike) |
+| **Instagram** | [instagram.com/favour.ogo_](https://www.instagram.com/favour.ogo_/) |
+| **TikTok** | [tiktok.com/@favour.ogo_](https://www.tiktok.com/@favour.ogo_) |
 
 ---
 
