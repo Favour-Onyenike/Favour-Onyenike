@@ -8,10 +8,6 @@ Abuja, Nigeria
 
 <br/>
 
-🟢 **Status:** Open to work &mdash; Data Analyst &middot; Data Entry &middot; Data Operations
-
-<br/>
-
 <a href="https://favour-onyenike.github.io/PORTFOLIO/">
   <img src="https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
@@ -75,38 +71,6 @@ I care about accuracy, clear documentation, and work that helps a team make bett
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 </div>
-
----
-
-## Achievements & badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_First_Class-Computer_Science-2A9D8F?style=for-the-badge" alt="First Class" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8A_Portfolio-Olist_Analytics-0A66C2?style=for-the-badge" alt="Portfolio Project" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_Work-Data_Analyst-FF6B00?style=for-the-badge" alt="Open to Work" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%85_End--to--End-Python_%7C_SQL_%7C_Power_BI-181717?style=for-the-badge" alt="End to End" />
-
-<br/><br/>
-
-<!-- GitHub stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Favour-Onyenike&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favour-Onyenike&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-
-<br/><br/>
-
-<!-- Profile trophies (includes Arctic Code Vault, PR, commits when earned) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Favour-Onyenike&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
-
-<p align="center">
-<em>Official GitHub achievements (Arctic Code Vault, Pull Shark, Pair Extraordinaire, etc.) appear automatically on your profile sidebar when you unlock them.</em>
-</p>
 
 ---
 
