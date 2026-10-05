@@ -9,19 +9,19 @@ Abuja, Nigeria
 <br/>
 
 <a href="https://favour-onyenike.github.io/PORTFOLIO/">
-  <img src="https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 &nbsp;
 <a href="https://github.com/Favour-Onyenike/data-analytics-portfolio">
-  <img src="https://img.shields.io/badge/Data_Analytics-Portfolio-2A9D8F?style=for-the-badge&logo=github&logoColor=white" alt="Data Analytics Portfolio" />
+  <img src="https://img.shields.io/badge/Data%20Analysis%20Portfolio-2A9D8F?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/Favour-Onyenike">
-  <img src="https://img.shields.io/badge/GitHub-Favour--Onyenike-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="mailto:onyenikefavour8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
