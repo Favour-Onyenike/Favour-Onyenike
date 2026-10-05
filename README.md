@@ -4,7 +4,6 @@
 
 ### Data Analyst & Data Entry Professional  
 Python · SQL · Power BI · Excel  
-Abuja, Nigeria
 
 <br/>
 
