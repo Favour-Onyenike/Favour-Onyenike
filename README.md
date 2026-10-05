@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://litter.catbox.moe/2an0i3.jpg" width="100%" alt="Human after all" />
+<img src="https://i.imgur.com/sbFXAbe.jpeg" width="100%" alt="Human after all" />
 
 # Favour Onyenike
 
