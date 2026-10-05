@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/hero-banner.jpg" width="340" alt="Human after all" />
+
 # Favour Onyenike
 
 ### Data Analyst & Data Entry Professional  
