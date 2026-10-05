@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/sbFXAbe.jpeg" width="100%" alt="Human after all" />
-
 # Favour Onyenike
 
 ### Data Analyst & Data Entry Professional  
